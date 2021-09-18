@@ -9,11 +9,11 @@
 ---
   
 Онлайн-тренинг по алгоритмическим задачам от Young&&Yandex на ***Yandex.ru***  
-всего 40 задач
+40 задач  
 пройден на 50%  
 31.08.2021 / 01.10.2021  
   
-https://yandex.ru/yaintern/algorithm-training
+https://yandex.ru/yaintern/algorithm-training  
   
 ---
   
