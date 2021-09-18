@@ -1,1 +1,10 @@
-# young_yandex_training_algorithms_2.0
+**Яндекс. Тренировки по алгоритмам 2.0**  
+(40 задач)  
+
+*Young&&Yandex*  
+  
+Онлайн-тренинг на yandex.ru   
+пройден на 50%  
+31.08.2021 / 01.10.2021  
+  
+https://yandex.ru/yaintern/algorithm-training
