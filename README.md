@@ -7,6 +7,7 @@
   
 https://yandex.ru/yaintern/algorithm-training
   
+---
   
 **Содержание**  
  - Тема 1 - Сложность, тестирование, особые случаи
